@@ -17,7 +17,7 @@ A responsive and modern web application featuring embedded HTML5 games.
 3. **2048** - Brain game
 
 ## 🚀 Live Demo
-Visit: [https://riths0321.github.io/Game/](https://riths0321.github.io/Game/)
+Visit: [https://riths0321.github.io/Game/](https://riths0321.github.io/my-html5-games-project/)
 
 ## 📁 Project Structure
 Game/
