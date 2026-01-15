@@ -1,25 +1,45 @@
-# HTML5 Games Collection
 
-A personal project demonstrating how to embed HTML5 games from HTMLGames.com.
+# 🎮 GameHub - HTML5 Games Collection
 
-## Features:
-- 3 embedded HTML5 games
-- Responsive design
-- Proper ads.txt implementation
-- Clean and simple interface
+A responsive and modern web application featuring embedded HTML5 games.
 
-## How to Use:
-1. Clone this repository
-2. Open `index.html` in your browser
-3. Play the games directly!
+## 🌟 Features
+- 3+ HTML5 games embedded
+- Fully responsive design
+- Smooth animations and transitions
+- Mobile-friendly interface
+- Modern UI with gradient backgrounds
+- Fast loading times
 
-## Games Included:
-1. Daily Path
-2. Mahjong Solitaire
-3. 2048
+## 🎮 Included Games
+1. **Daily Path** - Puzzle game
+2. **Mahjong Solitaire** - Strategy game  
+3. **2048** - Brain game
 
-## Setup:
-The games are embedded using:
-```html
-<script src="https://cdn.htmlgames.com/embed.js?game=GAME_NAME&amp;bgcolor=white"></script># my-html5-games-project
-# my-html5-games-project
+## 🚀 Live Demo
+Visit: [https://riths0321.github.io/Game/](https://riths0321.github.io/Game/)
+
+## 📁 Project Structure
+Game/
+├── index.html # Main HTML file
+├── style.css # Styling
+├── script.js # JavaScript functionality
+├── ads.txt # Ads configuration
+└── README.md # Documentation
+
+text
+
+## 🔧 Technologies Used
+- HTML5
+- CSS3 (Flexbox, Grid, Animations)
+- JavaScript (ES6+)
+- Font Awesome Icons
+- Google Fonts
+
+## 📱 Responsive Design
+- Works on all devices (Desktop, Tablet, Mobile)
+- Adaptive grid layout
+- Touch-friendly interface
+
+## 📄 License
+This project is created for educational purposes.
