@@ -22,3 +22,4 @@ A personal project demonstrating how to embed HTML5 games from HTMLGames.com.
 The games are embedded using:
 ```html
 <script src="https://cdn.htmlgames.com/embed.js?game=GAME_NAME&amp;bgcolor=white"></script># my-html5-games-project
+# my-html5-games-project
